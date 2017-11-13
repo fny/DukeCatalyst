@@ -8,3 +8,4 @@ Links to useful things from Catalyst at Duke
  - Big: https://docs.google.com/forms/d/e/1FAIpQLSdQ_E7fbE98b8iho5Ejm_cplNumjK7M6FQl0b0YuIU6PF_eTg/viewform
  - Little: https://docs.google.com/forms/d/e/1FAIpQLSeehdQ4oJSc7A44X_bp8emIx32XliTETs9ziyKI8ER0KEFcJA/viewform
  - Points: https://airtable.com/shr6MfnPasfh4fcrA
+ - Info sheet: https://docs.google.com/document/d/1reOyjMvxS2SsaLnAkzFqWFYDqZ7WUqz_mshX8WA7bQk/mobilebasic
